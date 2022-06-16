@@ -1,0 +1,396 @@
+title: Osnovi programiranja
+vreme: 13:50:00
+vremeEnd: 15:20:00
+param: 26.04.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Računarske mreže
+vreme: 08:30:00
+vremeEnd: 10:00:00
+param: 27.04.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Računarske mreže
+vreme: 10:15:00
+vremeEnd: 11:45:00
+param: 27.04.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Engleski jezik 1
+vreme: 12:00:00
+vremeEnd: 13:30:00
+param: 29.04.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Engleski jezik 1
+vreme: 13:45:00
+vremeEnd: 15:15:00
+param: 29.04.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 09:00:00
+vremeEnd: 10:30:00
+param: 30.04.2022
+lokacija: G21 - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 10:45:00
+vremeEnd: 11:30:00
+param: 30.04.2022
+lokacija: G21 - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 11:45:00
+vremeEnd: 13:15:00
+param: 30.04.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 13:30:00
+vremeEnd: 15:00:00
+param: 30.04.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Računarske mreže
+vreme: 08:30:00
+vremeEnd: 10:00:00
+param: 04.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Računarske mreže
+vreme: 10:15:00
+vremeEnd: 11:45:00
+param: 04.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Engleski jezik 1
+vreme: 12:00:00
+vremeEnd: 13:30:00
+param: 06.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Engleski jezik 1
+vreme: 13:45:00
+vremeEnd: 15:15:00
+param: 06.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 15:30:00
+vremeEnd: 17:00:00
+param: 06.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 09:00:00
+vremeEnd: 10:30:00
+param: 07.05.2022
+lokacija: G21 - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 10:45:00
+vremeEnd: 11:30:00
+param: 07.05.2022
+lokacija: G21 - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 11:45:00
+vremeEnd: 13:15:00
+param: 07.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 13:30:00
+vremeEnd: 15:00:00
+param: 07.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 08:30:00
+vremeEnd: 10:45:00
+param: 09.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 10:55:00
+vremeEnd: 12:55:00
+param: 09.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 13:45:00
+vremeEnd: 15:15:00
+param: 10.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Računarske mreže
+vreme: 08:30:00
+vremeEnd: 10:00:00
+param: 11.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Računarske mreže
+vreme: 10:15:00
+vremeEnd: 11:45:00
+param: 11.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Engleski jezik 1
+vreme: 12:00:00
+vremeEnd: 13:30:00
+param: 13.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Engleski jezik 1
+vreme: 13:45:00
+vremeEnd: 15:15:00
+param: 13.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 09:00:00
+vremeEnd: 10:30:00
+param: 14.05.2022
+lokacija: G21 - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 10:45:00
+vremeEnd: 11:30:00
+param: 14.05.2022
+lokacija: G21 - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 08:30:00
+vremeEnd: 10:00:00
+param: 16.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 10:15:00
+vremeEnd: 11:00:00
+param: 16.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 11:15:00
+vremeEnd: 12:45:00
+param: 16.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 13:15:00
+vremeEnd: 14:45:00
+param: 16.05.2022
+lokacija: M25 - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 14:30:00
+vremeEnd: 16:00:00
+param: 17.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Računarske mreže
+vreme: 08:30:00
+vremeEnd: 10:00:00
+param: 18.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Računarske mreže
+vreme: 10:15:00
+vremeEnd: 11:45:00
+param: 18.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Engleski jezik 1
+vreme: 12:00:00
+vremeEnd: 13:30:00
+param: 20.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Engleski jezik 1
+vreme: 13:45:00
+vremeEnd: 15:15:00
+param: 20.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 09:00:00
+vremeEnd: 10:30:00
+param: 21.05.2022
+lokacija: G21 - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 10:45:00
+vremeEnd: 11:30:00
+param: 21.05.2022
+lokacija: G21 - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 12:55:00
+vremeEnd: 14:25:00
+param: 21.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 14:30:00
+vremeEnd: 16:00:00
+param: 21.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 16:10:00
+vremeEnd: 16:55:00
+param: 21.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 08:30:00
+vremeEnd: 10:00:00
+param: 23.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 10:15:00
+vremeEnd: 11:45:00
+param: 23.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 13:15:00
+vremeEnd: 14:45:00
+param: 23.05.2022
+lokacija: M25 - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 15:00:00
+vremeEnd: 16:30:00
+param: 23.05.2022
+lokacija: M25 - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 14:30:00
+vremeEnd: 16:00:00
+param: 24.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Računarske mreže
+vreme: 13:00:00
+vremeEnd: 14:30:00
+param: 25.05.2022
+lokacija: M25 - Comtrade
+-----------------------
+title: Računarske mreže
+vreme: 14:45:00
+vremeEnd: 16:15:00
+param: 25.05.2022
+lokacija: M25 - Comtrade
+-----------------------
+title: Engleski jezik 1
+vreme: 12:00:00
+vremeEnd: 13:30:00
+param: 27.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Engleski jezik 1
+vreme: 13:45:00
+vremeEnd: 15:15:00
+param: 27.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 09:00:00
+vremeEnd: 10:30:00
+param: 28.05.2022
+lokacija: G21 - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 10:45:00
+vremeEnd: 11:30:00
+param: 28.05.2022
+lokacija: G21 - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 11:45:00
+vremeEnd: 13:15:00
+param: 28.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 13:30:00
+vremeEnd: 14:15:00
+param: 28.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 08:30:00
+vremeEnd: 10:00:00
+param: 30.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 10:15:00
+vremeEnd: 11:00:00
+param: 30.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 13:15:00
+vremeEnd: 14:45:00
+param: 30.05.2022
+lokacija: M25 - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 14:30:00
+vremeEnd: 16:00:00
+param: 31.05.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Računarske mreže
+vreme: 13:00:00
+vremeEnd: 14:30:00
+param: 01.06.2022
+lokacija: M25 - Comtrade
+-----------------------
+title: Računarske mreže
+vreme: 14:45:00
+vremeEnd: 16:15:00
+param: 01.06.2022
+lokacija: M25 - Comtrade
+-----------------------
+title: Engleski jezik 1
+vreme: 12:00:00
+vremeEnd: 13:30:00
+param: 03.06.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Engleski jezik 1
+vreme: 13:45:00
+vremeEnd: 15:15:00
+param: 03.06.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 09:00:00
+vremeEnd: 10:30:00
+param: 04.06.2022
+lokacija: G21 - Comtrade
+-----------------------
+title: Osnovi programiranja
+vreme: 10:45:00
+vremeEnd: 11:30:00
+param: 04.06.2022
+lokacija: G21 - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 11:45:00
+vremeEnd: 13:15:00
+param: 04.06.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
+title: Kvantitativne metode
+vreme: 13:30:00
+vremeEnd: 14:15:00
+param: 04.06.2022
+lokacija: Amfiteatar Aneks G - Comtrade
+-----------------------
